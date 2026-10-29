@@ -5,7 +5,7 @@ import turtle
 x = turtle.Turtle()
 x.penup()
 x.goto(0,60)
-x.write("Jeder der nichts weiß, mahlt nen Kreis", align = "center", font = ("Comic Sans MS", 20, "normal"))
+x.write("Jeder der nichts weiß, malt nen Kreis", align = "center", font = ("Comic Sans MS", 20, "normal"))
 
 x.penup()
 x.goto(0,-130)
